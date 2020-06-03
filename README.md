@@ -3,6 +3,7 @@
 ##### 1. Model
 ### MODEL 3 : 7 Layers with 4 Convolution layer
 <img width="486" alt="model select" src="https://user-images.githubusercontent.com/59687876/83595362-bba73480-a59c-11ea-8ebb-407b7564d102.png">
+<img width="119" alt="model 3" src="https://user-images.githubusercontent.com/59687876/83595562-4f790080-a59d-11ea-8431-d1d41bc67a02.png">
 
 
 ##### 2. Training with Training loss
